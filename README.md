@@ -52,3 +52,134 @@ The plugin has also all the features of Towny! (not all already implemented sinc
     - spy
   - /accept
   - /decline
+  
+Permissions:
+[Spoiler]
+[code=YAML]towny3d.*:
+    default: op
+    description: Implies all plugin permisisons
+    children:
+      town.*: true
+      plot.*: true
+      towny3d.admin.*: true
+  town.*:
+    default: op
+    description: Implies all town permissions
+    children:
+      town.help: true
+      town.create: true
+      town.mayor: true
+      town.claim: true
+      town.invite: true
+      town.deposit: true
+      town.withdraw: true
+      town.info: true
+      town.kick: true
+      town.spawn: true
+      town.here: true
+      town.online: true
+      town.disband: true
+  town.help:
+    default: true
+  town.create:
+    default: op
+  town.mayor:
+    default: true
+  town.claim:
+    default: true
+  town.invite:
+    default: true
+  town.deposit:
+    default: true
+  town.withdraw:
+    default: true
+  town.info:
+    default: true
+  town.kick:
+    default: true
+  town.spawn:
+    default: true
+  town.here:
+    default: true
+  town.online:
+    default: true
+  town.disband:
+    default: op
+  plot.*:
+    default: op
+    description: Implies all plot permissions
+    children:
+      plot.toggle.*: true
+      plot.perm.*: true
+      plot.sell: true
+      plot.claim: true
+      plot.embassy: true
+      plot.name: true
+      plot.info: true
+  plot.info:
+    default: true
+  plot.name:
+    default: true
+  plot.sell:
+    default: true
+  plot.claim:
+    default: true
+  plot.embassy:
+    default: true
+  plot.perm.*:
+    default: true
+    children:
+      plot.perm.pvp: true
+      plot.perm.interact: true
+      plot.perm.inventory: true
+      plot.perm.build: true
+      plot.perm.destroy: true
+      plot.perm.drop: true
+      plot.perm.pick: true
+      plot.perm.move: true
+  plot.toggle.*:
+    default: op
+    description: Implies all plot.setflag permissions
+    children:
+      plot.toggle.fire: true
+      plot.toggle.explosion: true
+      plot.toggle.friendly_mobs_spawn: true
+      plot.toggle.hostile_mobs_spawn: true
+  plot.toggle.fire:
+    default: false
+  plot.toggle.explosion:
+    default: false
+  plot.toggle.friendly_mobs_spawn:
+    default: false
+  plot.toggle.hostile_mobs_spawn:
+    default: false
+  plot.perm.pvp:
+    default: false
+  plot.perm.interact:
+    default: false
+  plot.perm.inventory:
+    default: false
+  plot.perm.build:
+    default: false
+  plot.perm.destroy:
+    default: false
+  plot.perm.drop:
+    default: false
+  plot.perm.pick:
+    default: false
+  plot.perm.move:
+    default: false
+  towny3d.admin.*:
+    description: Implies all admin permissions
+    default: op
+    children:
+      town3d.admin.chat.*: true
+  towny3d.admin.chat.*:
+    description: Implies all chat permissions
+    default: op
+    children:
+      towny3d.admin.chat.spy: true
+  towny3d.admin.chat.spy:
+    default: op[/code]
+
+[/spoiler]
