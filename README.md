@@ -1,5 +1,5 @@
 # Towny3D
-## The plugin is still in alpha, please report any bug/suggestion here
+## The plugin is still in alpha, please report any bug/suggestion [here](https://sndev.it/c/support)
 
 ### Dependencies:
 - Vault
