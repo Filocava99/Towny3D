@@ -53,9 +53,8 @@ The plugin has also all the features of Towny! (not all already implemented sinc
   - /accept
   - /decline
   
-Permissions:
-[Spoiler]
-[code=YAML]towny3d.*:
+# Permissions:
+towny3d.*:
     default: op
     description: Implies all plugin permisisons
     children:
@@ -180,6 +179,4 @@ Permissions:
     children:
       towny3d.admin.chat.spy: true
   towny3d.admin.chat.spy:
-    default: op[/code]
-
-[/spoiler]
+    default: op
