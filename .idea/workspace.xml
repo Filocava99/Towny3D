@@ -1,0 +1,733 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3f77dc46-66db-4092-a182-edb679f947aa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.43087855">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/PlotCommand.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="221">
+                  <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="510">
+                  <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="464">
+                  <caret line="99" column="33" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/TownCommand.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="8211">
+                  <caret line="504" column="51" selection-start-line="504" selection-start-column="51" selection-end-line="504" selection-end-column="51" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/towns/Town.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="986">
+                  <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/Towny3D.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="340">
+                  <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/PlayerListener.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="629">
+                  <caret line="37" column="79" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Utils.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="629">
+                  <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/RegionManager.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="5423">
+                  <caret line="335" column="52" selection-start-line="335" selection-start-column="52" selection-end-line="335" selection-end-column="52" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>flagName</find>
+      <find>resident.getTown()</find>
+      <find>Non sei ne il proprietario del plot ne un assistente/sindaco della tua città!</find>
+      <find>assistent/</find>
+      <find>Nobody</find>
+      <find>Non puoi interagire con questo blocco</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+      <replace>Towny3D.getDataManager().getTownManager().resident.getTown()</replace>
+      <replace>Towny3D.getDataManager().getTownManager().getTownList().get(resident.getTown())</replace>
+      <replace>You are neither the plot's owner nor an assistent/mayor of the town!</replace>
+      <replace>assistant/</replace>
+      <replace>Noone</replace>
+      <replace>You can't interact with this block</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/NationCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/TownyCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/DataManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/events/TownCreatedEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/events/TownCreationEvent.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/DataManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/ResidentManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/TownManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Vector.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Formatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Selection.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Utils.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/WorldListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/MobListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/InviteRequest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/AcceptCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/RequestManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/ResidentManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/DataManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/towns/Town.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/TownManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/TownyAdminCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/residents/Resident.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/ChatListener.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/RegionManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/PlotCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/TownCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/regions/Region.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/plugin.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/Towny3D.java" />
+        <option value="$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/PlayerListener.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Towny3D" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Towny3D" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Towny3D" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="93" />
+    <option name="width" value="3456" />
+    <option name="height" value="1416" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Towny3D" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Towny3D" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Plo&#9;FILE&#9;file://A:/Desktop/Workspaces/IntelliJ Idea/Towny3D/src/main/java/it/tigierrei/towny3d/commands/PlotCommand.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551437124514" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f77dc46-66db-4092-a182-edb679f947aa" name="Default Changelist" comment="" />
+      <created>1541249547460</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541249547460</updated>
+      <workItem from="1541249551895" duration="3931000" />
+      <workItem from="1541258459065" duration="4534000" />
+      <workItem from="1541324270919" duration="2593000" />
+      <workItem from="1541349454569" duration="783000" />
+      <workItem from="1541364076363" duration="8000" />
+      <workItem from="1541446927563" duration="40000" />
+      <workItem from="1541502417694" duration="6359000" />
+      <workItem from="1541769986742" duration="16747000" />
+      <workItem from="1542055536745" duration="3323000" />
+      <workItem from="1542100367249" duration="214000" />
+      <workItem from="1542376123130" duration="3897000" />
+      <workItem from="1542384186713" duration="2137000" />
+      <workItem from="1542484273421" duration="3019000" />
+      <workItem from="1542491224127" duration="5550000" />
+      <workItem from="1542552089762" duration="4622000" />
+      <workItem from="1542577915012" duration="1085000" />
+      <workItem from="1542903888839" duration="7458000" />
+      <workItem from="1542970953267" duration="3957000" />
+      <workItem from="1543076292880" duration="34000" />
+      <workItem from="1543498589777" duration="2994000" />
+      <workItem from="1543672639196" duration="3465000" />
+      <workItem from="1543676385549" duration="79000" />
+      <workItem from="1543699605823" duration="11000" />
+      <workItem from="1543750393370" duration="1623000" />
+      <workItem from="1543923282099" duration="150000" />
+      <workItem from="1544102414729" duration="599000" />
+      <workItem from="1544464869543" duration="2709000" />
+      <workItem from="1544476843087" duration="809000" />
+      <workItem from="1544527706611" duration="78000" />
+      <workItem from="1546196892010" duration="2441000" />
+      <workItem from="1548250877884" duration="22000" />
+      <workItem from="1548956922422" duration="82000" />
+      <workItem from="1548957051740" duration="755000" />
+      <workItem from="1549369518904" duration="277000" />
+      <workItem from="1550774058944" duration="1197000" />
+      <workItem from="1551435781556" duration="1340000" />
+      <workItem from="1551437143660" duration="930000" />
+      <workItem from="1553801279911" duration="1346000" />
+      <workItem from="1555610875780" duration="614000" />
+      <workItem from="1555688324805" duration="299000" />
+    </task>
+    <task id="LOCAL-00001" summary="Primo commit">
+      <created>1541262933939</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1541262933940</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Features:&#10;* Terminata sezione creazione città&#10;* Terminato ResidentManager&#10;* Terminato TownManager&#10;* Terminata Town&#10;* Terminato Resident">
+      <created>1541326266238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541326266238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Terminato selezione region">
+      <created>1541513291774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1541513291774</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Migrazione">
+      <created>1541794755979</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1541794755979</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Migrazione">
+      <created>1542100574091</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1542100574091</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Migrazione">
+      <created>1542578397434</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1542578397434</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Terminata sprint 2">
+      <created>1542988532909</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1542988532909</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Terminata sprint Plot">
+      <created>1543676214396</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1543676214396</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Terminata sprint Plot">
+      <created>1543676450684</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1543676450684</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Conversione in inglese">
+      <created>1544527776124</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1544527776124</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Conversione in inglese">
+      <created>1548250888877</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1548250888877</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Finished translation to english">
+      <created>1551438072814</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1551438072815</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92111000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="3456" height="1416" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09334511" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936507" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32936507" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50029445" side_tool="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49970552" weight="0.32962668" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32962668" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32979977" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.06890459" />
+      <window_info anchor="right" id="Maven" order="9" visible="true" weight="0.07008245" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08657244" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32962668" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32962668" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50029445" side_tool="true" weight="0.32962668" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.49970552" weight="0.32962668" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.32962668" />
+      <window_info active="true" anchor="bottom" id="Messages" order="12" visible="true" weight="0.32962668" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32979977" />
+      <window_info anchor="right" id="Maven Projects" order="8" visible="true" weight="0.06890459" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Primo commit" />
+    <MESSAGE value="Features:&#10;* Terminata sezione creazione città&#10;* Terminato ResidentManager&#10;* Terminato TownManager&#10;* Terminata Town&#10;* Terminato Resident" />
+    <MESSAGE value="Terminato selezione region" />
+    <MESSAGE value="Migrazione" />
+    <MESSAGE value="Terminata sprint 2" />
+    <MESSAGE value="Terminata sprint Plot" />
+    <MESSAGE value="Conversione in inglese" />
+    <MESSAGE value="Finished translation to english" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished translation to english" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/nations.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/nations/Nation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/NationCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/events/TownCreationEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="36" selection-start-column="36" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Vector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/WorldListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Selection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="50" column="18" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/MobListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="19" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Formatter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/InviteRequest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/AcceptCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/RequestManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/DataManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="23" column="54" selection-start-line="23" selection-start-column="54" selection-end-line="23" selection-end-column="54" />
+          <folding>
+            <element signature="e#1337#1338#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/TownyCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/residents/Resident.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/TownyAdminCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/ResidentManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/TownManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="918">
+          <caret line="69" column="47" selection-start-line="69" selection-start-column="47" selection-end-line="69" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/ChatListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/regions/Region.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1156">
+          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/PlotCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/commands/TownCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8211">
+          <caret line="504" column="51" selection-start-line="504" selection-start-column="51" selection-end-line="504" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/towns/Town.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="986">
+          <caret line="86" column="19" selection-start-line="86" selection-start-column="19" selection-end-line="86" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/Towny3D.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/utils/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="40" column="35" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/managers/RegionManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5423">
+          <caret line="335" column="52" selection-start-line="335" selection-start-column="52" selection-end-line="335" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/plugin.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="99" column="33" selection-start-line="99" selection-start-column="33" selection-end-line="99" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/it/tigierrei/towny3d/listeners/PlayerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="79" selection-start-line="37" selection-start-column="79" selection-end-line="37" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
