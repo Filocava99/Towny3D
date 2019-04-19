@@ -7,6 +7,8 @@
 With Towny3D you can finally create 3D claims and have multiple plots in the same chunk but at different heights! You just have to select the lower point and the higher point of the plot and then run the claim command.
 The plugin has also all the features of Towny! (not all already implemented since the plugin is in alpha)
 
+[![Donate!](https://proxy.spigotmc.org/c3159ca56058cc7d0de785cb0d2ba3473ac6a50d?url=https%3A%2F%2Fwww.umassmed.edu%2Fglobalassets%2Fmueller-lab-for-gene-therapy%2Fsupport-us-button.png)](https://www.paypal.me/tigierrei)
+
 ### Commands:
   - /town
     - help (or) ?
