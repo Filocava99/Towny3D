@@ -8,7 +8,6 @@ With Towny3D you can finally create 3D claims and have multiple plots in the sam
 The plugin has also all the features of Towny! (not all already implemented since the plugin is in alpha)
 
 ### Commands:
-```
   - /town
     - help (or) ?
     - create <townName>
