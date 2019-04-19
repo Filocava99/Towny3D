@@ -20,7 +20,7 @@ The plugin has also all the features of Towny! (not all already implemented sinc
     claim [chunk]
     unclaim
     set
-    perm <permName>
+      perm <permName>
     toggle <flag>
     invite (or) add <playerName>
     deposit <amount>
@@ -35,9 +35,9 @@ The plugin has also all the features of Towny! (not all already implemented sinc
   /plot
     help
     set
-    embassy
-    perm <permName>
-    reset
+      embassy
+      perm <permName>
+      reset
     toggle <flag>
     forsale (or) fs <price>
     notforsale (or) nfs
