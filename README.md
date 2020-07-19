@@ -1,4 +1,5 @@
 # Towny3D
+A Minecraft Spigot plugin to protect your buildings.
 ## The plugin is still in alpha, please report any bug/suggestion [here](https://sndev.it/c/support)
 
 ### Dependencies:
